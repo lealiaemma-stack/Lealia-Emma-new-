@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Asset & Script Producer",
+  "description": "An AI-powered tool to break down scripts into sentence-by-sentence stock footage assets and generate documentary ideas from YouTube links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
